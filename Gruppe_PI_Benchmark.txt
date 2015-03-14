@@ -1,0 +1,42 @@
+Doodle Funktionen kostenpflichtig, Fremdhosting
+-> mehr Features als benötigt
+-> Features kostenpflichtig
+-> Fremdhosting->Datenschutz
+-> Werbung
+-> Publicity
+-> einfach verwendbar
+
+Couchkiller - mehr features, aber overkill
+-> overkill (Catering etc)
+-> keine intuitive Benutzeroberfläche, overloaded
+-> unseriöser Style
+-> Fremdhosting
+-> Werbung
+-> gute Platzierung bei Google
+-> gratis
+
+Uni Dresden-Dudle
+-> guter Datenschutz
+-> komplett verfügbar, aber kompliziert
+-> nicht einfach einbaubar ->
+-> keine intuitive benutzeroberfläche, kaum style
+-> könnte als basis verwendet werden, weiterentwickelt hat potential, lizenz ok
+-> bisschen bekanntheit
+-> gratis
+
+Duadle
+-> basic functions
+-> einfache customization
+--> Style (Logo, Banner, Farbe)
+--> Features deaktivierbar
+-> Outlook Einbindung (Serialisierung der Termine)
+-> User management in later versions
+-> kostenlos BSD wenn eigenentwicklung, AGPL wenn von Dresden-> PR
+-> Werbefrei
+-> Datenschutz ->intern, firewall, serversicherung
+-> Feature: Backup
+-> kaum Adminaufwand
+-> Wartung kaum vorhanden
+-> einfache Einbindung
+-> Verwendbarkeit von unerfahrenen Nutzern
+-> Länge von Veranstaltungen (nicht in dudle)
